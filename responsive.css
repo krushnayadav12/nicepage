@@ -1,0 +1,19 @@
+@media screen and (max-width:768px) {
+    .k_media {
+        width: 100% !important;
+    }
+    .k_media .b_avatar img{
+        object-position: -169px !important;
+    }
+    .social_links{
+        bottom: -20px !important;
+        left: 58px !important;
+    }
+    .social_links .k_bg_purpule{
+        width: 60px;
+        height: 60px;
+    }
+    .social_links .k_bg_purpule i{
+        font-size: 35px;
+    }
+}
